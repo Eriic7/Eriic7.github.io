@@ -1,0 +1,158 @@
+
+* {
+    font-family: 'Combo', cursive;
+    
+    margin-top: 0;
+    margin-left: 0;
+
+}
+
+body {
+    background-color:#E0ECF4;
+}
+
+h1 {
+    position: absolute;
+    font-size: 50px;
+    left: 280px;
+    margin-top: 0%;
+    padding: 0%;
+    display: inline;
+    
+    
+
+}
+
+h2 {
+
+}
+
+
+.contenedor {
+    width: 250px;
+    height: 100%vh;
+    background-color: #306E9E;
+    color: #fff;  
+    justify-content: space-between;
+    text-align: left;
+    padding: 10px;
+    padding-top: 10px;
+    margin: 0;
+    font-size: 15PX;
+    
+}
+   
+
+#f-perfil {
+    position: relative;
+    height: 200px;
+    display: inline-block;
+    
+}
+
+.contenedor-2 {
+    position: absolute;
+    width: 500px;
+    height: 100%vh;
+    top: 200px;
+    left: 280px;
+    box-sizing: border-box;
+    font-size: 14px;
+   
+}
+
+
+
+ .medium {
+    height: 1px;
+    background-color: black;
+    margin: 10px 0;
+ }
+    
+
+.min-cont {
+    position: absolute;
+    width: 500px;
+    height: 100px;
+    left: 280px;
+    top: 100px;
+    
+}
+
+.list-none {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.f-perfil {
+border-radius: 20px;
+
+}
+
+#exper {
+    color: #306E9E;
+
+}
+
+#exper-1 {
+font-size: 50px;
+color: #306E9E;
+}
+
+.nav-li {
+    color: #306E9E;
+}
+.nav-li a {
+    color: #2323F7;
+    text-decoration: none;
+
+}
+
+#boton_color, #boton_color1, #boton_color2, #boton_color3, #boton_color4, #boton_default {
+    padding: 0%;
+    margin: 0 3px;
+    padding: 0 2px;
+    border-radius: 7px;
+    transition: 0.3s;
+}
+
+#boton_color:hover {
+    background-color: #D7EC78;
+    color: #B478EC;
+    padding: 3px;
+
+}
+
+#boton_color1:hover {
+    background-color: #996AE3;
+    color: #1460AB;
+    padding: 3px;
+
+}
+
+#boton_color2:hover {
+    background-color: #AA8DEA;
+    color: #84230B;
+    padding: 3px;
+
+}
+
+#boton_color3:hover {
+    background-color: #251F8E;
+    color: #68FA71;
+    padding: 3px;
+
+}
+
+#boton_color4:hover {
+    background-color: #19C9B4;
+    color: #1A0CC8;
+    padding: 3px;
+
+}
+
+span {
+    font-weight: bold;
+    font-style: italic;
+}
